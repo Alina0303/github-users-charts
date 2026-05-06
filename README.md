@@ -2,6 +2,10 @@
 
 A modern React + TypeScript app for searching GitHub user profiles and visualizing repository statistics. Built with Vite, Tailwind CSS, Apollo Client, and GraphQL.
 
+## Live Demo
+
+Check out the live application: [https://github-users-charts.netlify.app/](https://github-users-charts.netlify.app/)
+
 ## Features
 
 - Search GitHub users by username
